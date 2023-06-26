@@ -1,6 +1,6 @@
 ### Hi there 👋I'm ViolaPioggia
 - 🔭 I’m currently studying on Chongqing
-- 🌱 I’m currently learning golang , keeps learning.
+- 🌱 I’m currently learning golang , and keep learning.
 - 📫 How to reach me: ViolaPioggia@qq.com
 - 😊 My blog: [https://blog.violapioggia.cn/](https://blog.violapioggia.cn/)
 
